@@ -1,10 +1,12 @@
 # degree_of_profanity
+check for profanity in a tweet\
+we take degree of profanity = no. of racist slurs/ length of tweet
+
 
 ## to run
 execute `profanity_checker.py`
 
 by default it looks for a `tweets.json` in the same director\
-if you want to run it on your own json file,\
 modify the `tweets_path` var
 
 if you want to change the list of racial slurs to include\
